@@ -1,0 +1,13 @@
+id = "appleskin"
+name = "AppleSkin"
+version = "0.1.0"
+description = "AppleSkin-style food values, saturation HUD, and hunger previews for Horizon."
+authors = []
+api = "0.2"
+side = "both"
+capabilities = ["registries"]
+
+[native]
+game = "26.3"
+horizon = "5ef7734fdd854add5efd6817178be3c988d8d050"
+mixins = "e59da9094f0c2fdda6c627fe9eff22dec6a906f0"
